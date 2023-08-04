@@ -1,0 +1,41 @@
+.register-login-form {
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+    background-color:teal;
+    box-shadow: 3px 3px 10px black;
+    display: block;
+    border-radius: 10px;
+}
+
+.register-button {
+    display: flex;
+}
+
+.signin {
+    display: flex;
+    margin-top: 25px;
+    color: aqua;
+}
+
+.register-btn2 {
+    height: 30px;
+    width: 90px;
+    margin-top: 10px;
+    margin-left: 135px;
+    border: none;
+    background-color: #4E94F4;
+    border-radius: 5px;
+    color: white;
+}
+
+.register-login-admin {
+    width: 100%;
+    margin-top: 7px;
+    border-radius: 5px;
+    height: 30px;
+}
+.register-heading{
+     font-size: medium;
+     text-align: left;
+ }
