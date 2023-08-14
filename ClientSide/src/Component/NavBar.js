@@ -34,9 +34,10 @@ const NavBar = () => {
             <h6>FOOD</h6>
           </Link>
             <span className="nav-log-button" >Logout</span>
-            <Link className="link nav-log-button" to="/login">
+            <span>Waseem</span>
+            {/* <Link className="link nav-log-button" to="/login">
               Login
-            </Link>
+            </Link> */}
           <span className="write">
             <Link className="link" to="/write">
               Write
